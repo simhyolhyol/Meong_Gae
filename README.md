@@ -1,2 +1,2 @@
-# munggae
-2022 TUKOREA androidproject -  munggae
+# MeongGae
+2022 TUKOREA androidproject -  MeongGae
