@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Meong-gae</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_ticket">수강권</string>
+    <string name="title_reservation">수업예약</string>
+    <string name="title_mypage">마이페이지</string>
+    <string name="title_board">게시판</string>
 </resources>
