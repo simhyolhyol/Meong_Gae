@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toolbar_home"
+        android:title="홈 화면"
+        android:icon="@drawable/bell"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/toolbar_mypage"
+        android:title="마이페이지"
+        android:icon="@drawable/pencil"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/toolbar_board"
+        android:title="게시판"
+        android:icon="@drawable/bell"
+        app:showAsAction="ifRoom"/>
+
+</menu>

@@ -13,19 +13,19 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.meong_gae.ui.dashboard.DashboardFragment"
+        android:name="com.example.meong_gae.ui.reserve.ReserveFragment"
         android:label="@string/title_reservation"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_reserve" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.meong_gae.ui.notifications.NotificationsFragment"
+        android:name="com.example.meong_gae.ui.mypage.MypageFragment"
         android:label="@string/title_mypage"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_mypage" />
 
     <fragment
         android:id="@+id/navigation_board"
         android:name="com.example.meong_gae.ui.board.BoardFragment"
         android:label="@string/title_board"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_mypage" />
 </navigation>
