@@ -8,6 +8,12 @@
         app:showAsAction="ifRoom"/>     <!-- ifRoom: -->
 
     <item
+        android:id="@+id/toolbar_reserve"
+        android:title="그룹 수업 예약"
+        android:icon="@drawable/bell"
+        app:showAsAction="ifRoom"/>
+
+    <item
         android:id="@+id/toolbar_mypage"
         android:title="마이페이지"
         android:icon="@drawable/pencil"
